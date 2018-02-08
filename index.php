@@ -14,7 +14,7 @@
 <body>
 	<div class="container">
 		<h1>Prashant More</h1>
-		<img src='images/Photo.jpg'>
+		<img src='images/Photo.jpg' alt="Prashant More" >
 		<h2>About Me</h2>
 		<p>
 			My name is Prashant More. I have a Bachelors Degree in Computer Engineering. I am currently working as Director- Technology
