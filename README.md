@@ -1,4 +1,4 @@
-# Project 1: About Me, my Photo and Random Quote
+# Project 1: About Me, My Photo and Random Quote
 + By: *Prashant More*
 + Production URL: <http://p1.dwa15.online/>
 
